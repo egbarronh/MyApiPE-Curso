@@ -1,0 +1,6 @@
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEEDM\bin\Debug\MyApiPEEDM.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEEDM\bin\Debug\MyApiPEEDM.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEEDM\obj\Debug\MyApiPEEDM.csproj.AssemblyReference.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEEDM\obj\Debug\MyApiPEEDM.csproj.CoreCompileInputs.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEEDM\obj\Debug\MyApiPEEDM.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEEDM\obj\Debug\MyApiPEEDM.pdb

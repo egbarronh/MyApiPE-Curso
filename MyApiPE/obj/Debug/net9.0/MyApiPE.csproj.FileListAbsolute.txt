@@ -1,0 +1,93 @@
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\appsettings.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.staticwebassets.endpoints.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.exe
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.deps.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.runtimeconfig.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.csproj.AssemblyReference.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.AssemblyInfoInputs.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.AssemblyInfo.cs
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.csproj.CoreCompileInputs.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\scopedcss\bundle\MyApiPE.styles.css
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.csproj.Up2Date
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\refint\MyApiPE.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.genruntimeconfig.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\ref\MyApiPE.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEBL.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEEDM.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEREP.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEBL.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEEDM.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEREP.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\appsettings.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.staticwebassets.endpoints.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.exe
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.deps.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.runtimeconfig.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPE.pdb
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEBL.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEEDM.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEREP.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEBL.pdb
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEEDM.pdb
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\bin\Debug\net9.0\MyApiPEREP.pdb
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.csproj.AssemblyReference.cache
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.AssemblyInfoInputs.cache
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.AssemblyInfo.cs
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.csproj.CoreCompileInputs.cache
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\scopedcss\bundle\MyApiPE.styles.css
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.csproj.Up2Date
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\refint\MyApiPE.dll
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.pdb
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\MyApiPE.genruntimeconfig.cache
+C:\Users\ebarron\OneDrive - Electrónica Steren, S.A. de C.V\EBarron\Corporativo\Curso 2025 Visual Studio 2022\repos\ApiWeb\MyApiPE\MyApiPE\obj\Debug\net9.0\ref\MyApiPE.dll

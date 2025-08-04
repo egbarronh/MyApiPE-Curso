@@ -1,0 +1,6 @@
+@MyApiPE_HostAddress = http://localhost:5137
+
+GET {{MyApiPE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

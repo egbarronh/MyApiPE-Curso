@@ -1,0 +1,9 @@
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\obj\Debug\MyApiPEREP.csproj.AssemblyReference.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\obj\Debug\MyApiPEREP.csproj.CoreCompileInputs.cache
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\bin\Debug\MyApiPEREP.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\bin\Debug\MyApiPEREP.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\bin\Debug\MyApiPEEDM.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\bin\Debug\MyApiPEEDM.pdb
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\obj\Debug\MyApiPEREP.csproj.Up2Date
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\obj\Debug\MyApiPEREP.dll
+C:\Users\ebarron\source\repos\ApiWeb\MyApiPE\MyApiPEREP\obj\Debug\MyApiPEREP.pdb
